@@ -1,2 +1,6 @@
 Date,Day,Start time,End time,Hours,Topic,Activities,Resources,Commit link,AI used, Blockers,Learning Reflection
-2026-10-18,sunday,,,2,"Orientation and setup","checked Github; registered and signed in to kaggle; checked Microsoft account access; instelled and opened power BI desktop; saved a practice report; opened Google Colab and tested python; created team repository and timesheet files",Github;Kaggle; Microsoft 365; Power BI Desktop; Google Colab",,Chatgpt,None noted,"Completed initial tool setup, tested Python execution, and created GitHub repository files"
+2026-10-18,sunday,,,2,"Orientation and setup","checked Github; registered and signed in to kaggle; 
+checked Microsoft account access; instelled and opened power BI desktop; saved a practice report;
+opened Google Colab and tested python; created team repository and timesheet files",Github;Kaggle; 
+Microsoft 365; Power BI Desktop; Google Colab",,Chatgpt,None noted,"Completed initial tool setup, tested Python execution,
+and created GitHub repository files"
