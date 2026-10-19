@@ -18,7 +18,7 @@ practised organising ridership, peak-hour share, and revenue proxy measures into
 
 DAY-03
 2026-10-19,Monday,,,
-6HOURS "Excel 1: Cleaning and Lookups","Practised cleaning employee names using TRIM and SUBSTITUTE with CHAR(160);
+4HOURS "Excel 1: Cleaning and Lookups","Practised cleaning employee names using TRIM and SUBSTITUTE with CHAR(160);
 used XLOOKUP to find departments by employee ID; saved Day3_Excel_Practice.xlsx and uploaded it to GitHub","Microsoft Excel; GitHub; ChatGPT",,ChatGPT,None noted,
 "Learned how to clean extra spaces in text and use XLOOKUP to retrieve matching department information."
 
@@ -27,7 +27,7 @@ Formatted the worksheet and uploaded Day3_Excel_Practice.xlsx to GitHub.
 
 Learned how to calculate sales KPIs, compare monthly revenue, measure growth percentages, and present results in a formatted Excel worksheet.
 
-,"Excel 1: Business Formulas and Sales KPIs","Added a revenue column using transaction quantity multiplied by unit price; 
+2hours,"Excel 1: Business Formulas and Sales KPIs","Added a revenue column using transaction quantity multiplied by unit price; 
 created Category Revenue and Monthly Revenue PivotTables; grouped transaction dates by month and year; 
 calculated total revenue; saved and uploaded COFFEE_SHOP_SALES_ANALYSIS.xlsx to GitHub","Microsoft Excel; 
 Maven Analytics Coffee Shop Sales dataset; GitHub; ChatGPT",,ChatGPT,None noted,
