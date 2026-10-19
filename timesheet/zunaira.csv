@@ -1,6 +1,7 @@
 DAY-01
 Date,Day,Start time,End time,Hours,Topic,Activities,Resources,Commit link,AI used, Blockers,Learning Reflection
-2026-10-17,saturday,,,4,"Orientation and setup","checked Github; registered and signed in to kaggle; 
+2026-10-17,saturday,,, 
+4HOURS,"Orientation and setup","checked Github; registered and signed in to kaggle; 
 checked Microsoft account access; instelled and opened power BI desktop; saved a practice report;
 opened Google Colab and tested python; created team repository and timesheet files",Github;Kaggle; 
 Microsoft 365; Power BI Desktop; Google Colab",,Chatgpt,None noted,"Completed initial tool setup, tested Python execution,
@@ -10,7 +11,13 @@ Learned how branches, commits, and pull requests work in GitHub. Practised creat
 
 DAY-02
 2026-10-18,sunday,,,
-2,"Types of Analytics and KPIs","Learned descriptive, diagnostic, predictive, and prescriptive analytics;
+2HOURS,"Types of Analytics and KPIs","Learned descriptive, diagnostic, predictive, and prescriptive analytics;
 understood KPIs and their purpose; created and committed a Namma Metro KPI tree in kpi_tree.md","Internship handbook; 
 GitHub repository; ChatGPT",,ChatGPT,None noted,"Understood the four types of analytics and how KPIs measure performance;
 practised organising ridership, peak-hour share, and revenue proxy measures into a KPI tree.
+
+DAY-03
+2026-10-19,Monday,,,
+4HOURS "Excel 1: Cleaning and Lookups","Practised cleaning employee names using TRIM and SUBSTITUTE with CHAR(160);
+used XLOOKUP to find departments by employee ID; saved Day3_Excel_Practice.xlsx and uploaded it to GitHub","Microsoft Excel; GitHub; ChatGPT",,ChatGPT,None noted,
+"Learned how to clean extra spaces in text and use XLOOKUP to retrieve matching department information."
