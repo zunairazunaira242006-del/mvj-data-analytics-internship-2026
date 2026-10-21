@@ -31,4 +31,12 @@ Learned how to calculate sales KPIs, compare monthly revenue, measure growth per
 created Category Revenue and Monthly Revenue PivotTables; grouped transaction dates by month and year; 
 calculated total revenue; saved and uploaded COFFEE_SHOP_SALES_ANALYSIS.xlsx to GitHub","Microsoft Excel; 
 Maven Analytics Coffee Shop Sales dataset; GitHub; ChatGPT",,ChatGPT,None noted,
-"Learned how to calculate revenue and summarise sales by product category and month using PivotTables. Uploaded the analysis workbook to GitHub."
+"Learned how to calculate revenue and summarise sales by product category and month using PivotTables.
+Uploaded the analysis workbook to GitHub."
+
+4 hours 2026-10-21,Wednesday,,,"","Excel 2: What-If Analysis and Forecasting","Practised Goal Seek to find a price for a revenue target; 
+created Low Sales, Normal Sales, and High Sales scenarios using Scenario Manager;
+created a Forecast Sheet using sample monthly revenue data; 
+saved and uploaded Day4_WhatIf_Analysis.xlsx to GitHub","Microsoft Excel; GitHub; ChatGPT",,ChatGPT,None noted,
+"Learned how to use Goal Seek, compare business scenarios,
+and generate a forecast from sample monthly revenue data."
