@@ -22,7 +22,8 @@ DAY-03
 used XLOOKUP to find departments by employee ID; saved Day3_Excel_Practice.xlsx and uploaded it to GitHub","Microsoft Excel; GitHub; ChatGPT",,ChatGPT,None noted,
 "Learned how to clean extra spaces in text and use XLOOKUP to retrieve matching department information."
 
-Completed Excel sales KPI practice using SUMIFS, COUNTIFS, AVERAGE, revenue calculations, category-wise revenue, monthly revenue summaries, MoM growth, and YoY growth.
+Completed Excel sales KPI practice using SUMIFS, COUNTIFS, AVERAGE, revenue calculations, category-wise revenue,
+monthly revenue summaries, MoM growth, and YoY growth.
 Formatted the worksheet and uploaded Day3_Excel_Practice.xlsx to GitHub.
 
 Learned how to calculate sales KPIs, compare monthly revenue, measure growth percentages, and present results in a formatted Excel worksheet.
