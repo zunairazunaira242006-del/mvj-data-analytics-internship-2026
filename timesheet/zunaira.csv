@@ -41,3 +41,11 @@ created a Forecast Sheet using sample monthly revenue data;
 saved and uploaded Day4_WhatIf_Analysis.xlsx to GitHub","Microsoft Excel; GitHub; ChatGPT",,ChatGPT,None noted,
 "Learned how to use Goal Seek, compare business scenarios,
 and generate a forecast from sample monthly revenue data."
+
+2026-10-24
+5 hours Completed SQLBolt lessons 1–12; loaded the Online Retail II dataset into DuckDB; calculated monthly revenue,
+unique orders, and average order value by country using SQL; exported results to CSV; saved and committed the analysis notebook 
+and results to GitHub.
+ I learned how to load a retail dataset into DuckDB, write SQL aggregation queries, group sales by month and country,
+calculate revenue, count unique orders, and find average order value.
+I also learned to export results and save my analysis work to GitHub
