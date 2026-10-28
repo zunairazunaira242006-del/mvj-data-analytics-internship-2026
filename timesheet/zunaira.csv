@@ -54,11 +54,9 @@ I also learned to export results and save my analysis work to GitHub
 
 day6
 2026-10-28
-worked for 3hours Loaded the Online Retail II dataset into SQLite using DB Browser for SQLite. Practised SQL JOINs and CASE statements,
-calculated customer spending and order counts,  created customer segments, and built the customer_level table with country information. 
-Saved and committed day6_customer_analysis.sql to GitHub.
-I learned how to use SQL JOINs to combine customer information, use CASE statements to classify customers into spending segments, 
-and create a customer-level table with order counts, total spending, and country information.
-resources used-DB Browser for SQLite;GITHUB;chatgpt for information
-day6_customer_analysis.sql committed to github.ChatGPT — guidance with SQL queries, JOINs, CASE statements, and troubleshooting in DB Browser for SQLite.
-Completed customer segmentation using SQL JOINs and CASE statements, created the customer_level table, and committed the SQL file to GitHub.
+3 hours,Loaded the Online Retail II dataset into SQLite using DB Browser for SQLite; practised SQL JOINs and CASE statements; 
+calculated customer spending and order counts; created customer segments and the customer_level table with country information; 
+saved and committed day6_customer_analysis.sql to GitHub.,DB Browser for SQLite; GitHub; ChatGPT,day6_customer_analysis.sql committed to GitHub
+,ChatGPT — guidance with SQL queries, JOINs, CASE statements, and troubleshooting in DB Browser for SQLite.,No major blockers. 
+Practised SQL queries and created the customer-level table successfully.,Learned how to combine customer information using JOINs, 
+classify customers using CASE, and create a customer-level table.
