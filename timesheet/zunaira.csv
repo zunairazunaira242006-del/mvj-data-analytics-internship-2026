@@ -60,3 +60,10 @@ saved and committed day6_customer_analysis.sql to GitHub.,DB Browser for SQLite;
 ,ChatGPT — guidance with SQL queries, JOINs, CASE statements, and troubleshooting in DB Browser for SQLite.,No major blockers. 
 Practised SQL queries and created the customer-level table successfully.,Learned how to combine customer information using JOINs, 
 classify customers using CASE, and create a customer-level table.
+
+On Day 7 (30-10-2026), I worked from 2:00 PM to 5:49 PM, spending a total of 3 hours and 49 minutes on SQL for Data Analytics.
+I completed all four topics in Kaggle Advanced SQL: Joins and Unions, Analytic Functions, Nested and Repeated Data, and Writing Efficient Queries. 
+I also attempted 10 HackerRank SQL Basic questions and practised 10 additional SQL questions with ChatGPT. 
+I revised concepts such as running totals, the LAG() function, month-on-month growth, and top-N queries. 
+I used ChatGPT to understand SQL concepts, practise queries, and correct mistakes.
+I faced no major blockers. I learned how SQL aggregate functions and window functions help analyse and summarise data.
