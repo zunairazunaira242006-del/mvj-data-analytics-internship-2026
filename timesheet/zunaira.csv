@@ -83,3 +83,10 @@ Completed the weekly review and Python refresher. Prepared and saved the Day 9 w
 Reviewed Project 1 (Online Retail II KPI Analysis), checked the KPI Summary, Monthly Growth calculations, Dashboard charts, and five Business Recommendations. 
 Saved the updated Excel workbook.
 Time spent:2hour
+
+day-10
+2026-11-1
+Completed Day 10 – Pandas DataFrames. Practised Pandas basics, created and explored DataFrames, loaded the Online Retail II dataset into Google Colab,
+checked rows, columns, data types and missing values, converted InvoiceDate into datetime format, and created a Revenue column. 
+Recreated key Project 1 KPIs using Pandas, including Total Revenue, Total Orders, Average Order Value (AOV), and Repeat Customer Rate. 
+Compared the results with the previous project and saved the completed notebook. Time spent: 3 hours 20 minutes (6:50 to 10:10).
