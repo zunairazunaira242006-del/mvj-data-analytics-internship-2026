@@ -67,3 +67,12 @@ I also attempted 10 HackerRank SQL Basic questions and practised 10 additional S
 I revised concepts such as running totals, the LAG() function, month-on-month growth, and top-N queries. 
 I used ChatGPT to understand SQL concepts, practise queries, and correct mistakes.
 I faced no major blockers. I learned how SQL aggregate functions and window functions help analyse and summarise data.
+
+day-8
+2026-11-1
+Completed Day 8 tasks on Online Retail II KPI Analysis using SQL and Excel. 
+Identified the dataset tables and columns using SQL queries, calculated Total Revenue, Average Order Value (AOV), 
+Repeat Customer Rate, Top 10 Best-Selling Products, and Month-on-Month Revenue Growth.
+Transferred the analysis results into Excel, created a KPI Summary, Monthly Growth sheet, visual charts, and
+an Online Retail Sales Dashboard. Also prepared five business recommendations based on the analysis and saved the final Excel workbook.
+*Time Spent: 2 hours 40 minutes (1:00 PM – 3:40 PM).
