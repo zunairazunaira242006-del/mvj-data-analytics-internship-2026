@@ -90,3 +90,13 @@ Completed Day 10 – Pandas DataFrames. Practised Pandas basics, created and exp
 checked rows, columns, data types and missing values, converted InvoiceDate into datetime format, and created a Revenue column. 
 Recreated key Project 1 KPIs using Pandas, including Total Revenue, Total Orders, Average Order Value (AOV), and Repeat Customer Rate. 
 Compared the results with the previous project and saved the completed notebook. Time spent: 3 hours 20 minutes (6:50 to 10:10).
+
+day-11
+2026-11-2
+Today, I spent time preparing and working on Pandas 2, focusing on GroupBy, merging DataFrames, and time-series analysis.
+I calculated daily and monthly revenue using GroupBy and resampling techniques
+. I also calculated a 3-month rolling average to understand revenue trends. Additionally, 
+I created customer revenue and customer information DataFrames and merged them using the Customer ID column.
+I practised data aggregation, merging, and time-series analysis using Pandas.
+
+Time: 4:00 PM to 7:11 PM (3 hours 11 minutes).
