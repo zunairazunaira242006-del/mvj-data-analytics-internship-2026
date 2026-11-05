@@ -118,3 +118,11 @@ I also conducted cohort analysis by grouping customers based on their first purc
 calculated monthly customer retention rates, and created a cohort retention heatmap to visualize customer retention patterns.
 Finally, I saved the analysis files and uploaded the completed notebook to GitHub.
 Time Spent: 4 Hours
+
+day-14
+Today, I worked on funnel analysis and A/B testing using Python and Pandas. 
+I created an e-commerce conversion funnel,calculated conversion rates and drop-off percentages,and visualized the funnel using a bar chart.
+I also performed an A/B test using the Chi-Square test of independence with SciPy to compare the conversion rates of two groups.
+I interpreted the p-value at a 5% significance level and concluded that the result was not statistically significant.
+Finally, I used AI to verify the calculations, compared the results with Python, and saved my completed notebook.
+Time Spent: 3 hours
