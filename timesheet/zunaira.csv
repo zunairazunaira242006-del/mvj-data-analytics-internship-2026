@@ -89,7 +89,8 @@ day-10
 Completed Day 10 – Pandas DataFrames. Practised Pandas basics, created and explored DataFrames, loaded the Online Retail II dataset into Google Colab,
 checked rows, columns, data types and missing values, converted InvoiceDate into datetime format, and created a Revenue column. 
 Recreated key Project 1 KPIs using Pandas, including Total Revenue, Total Orders, Average Order Value (AOV), and Repeat Customer Rate. 
-Compared the results with the previous project and saved the completed notebook. Time spent: 3 hours 20 minutes (6:50 to 10:10).
+Compared the results with the previous project and saved the completed notebook. 
+Time spent: 3 hours 20 minutes (6:50 to 10:10).
 
 day-11
 2026-11-2
@@ -100,3 +101,12 @@ I created customer revenue and customer information DataFrames and merged them u
 I practised data aggregation, merging, and time-series analysis using Pandas.
 
 Time: 4:00 PM to 7:11 PM (3 hours 11 minutes).
+
+DAY-12
+Today, I worked on data cleaning and quality checks using Python and Pandas.
+I removed cancelled transactions and product returns, handled missing values, identified and removed outliers, 
+and eliminated duplicate records. I also created a cleaning log to document the cleaning process and 
+implemented five automated data-quality checks to verify the cleaned dataset. Finally, I saved the cleaned dataset and
+cleaning log and uploaded my notebook to GitHub.
+
+Time spent: 4 hours.
