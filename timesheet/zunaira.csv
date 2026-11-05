@@ -110,3 +110,11 @@ implemented five automated data-quality checks to verify the cleaned dataset. Fi
 cleaning log and uploaded my notebook to GitHub.
 
 Time spent: 4 hours.
+
+DAY-13
+Today, I performed RFM (Recency, Frequency, Monetary) analysis using Python and Pandas to understand customer purchasing behaviour.
+I calculated RFM scores and classified customers into High Value, At Risk, and Regular segments. 
+I also conducted cohort analysis by grouping customers based on their first purchase month, 
+calculated monthly customer retention rates, and created a cohort retention heatmap to visualize customer retention patterns.
+Finally, I saved the analysis files and uploaded the completed notebook to GitHub.
+Time Spent: 4 Hours
