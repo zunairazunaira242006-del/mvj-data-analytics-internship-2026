@@ -135,3 +135,12 @@ such as personalized discounts, loyalty rewards, and targeted campaigns.
 I also identified key performance indicators to monitor customer retention and business performance.
 
 **Time Spent: 3 hours.**
+
+day-16
+Today, I participated in an awareness session on the latest tools and trends in data analytics. 
+I explored DuckDB by installing it in Google Colab and practising SQL queries on a Pandas DataFrame using 
+GROUP BY, ORDER BY, COUNT(), SUM(), and AVG(). I also studied Streamlit and its applications in building interactive data analytics
+dashboards using Python.
+Finally, I documented the tools I want to learn next and uploaded the notebook and documentation to my GitHub repository.
+
+**Time Spent: 2 Hours**
