@@ -126,3 +126,12 @@ I also performed an A/B test using the Chi-Square test of independence with SciP
 I interpreted the p-value at a 5% significance level and concluded that the result was not statistically significant.
 Finally, I used AI to verify the calculations, compared the results with Python, and saved my completed notebook.
 Time Spent: 3 hours
+
+day-15
+Today, I worked on Project 2: Customer Segmentation and Retention.
+I reused the RFM customer segmentation and cohort retention analysis to identify customer behaviour and retention patterns.
+I prepared a customer retention plan focusing on At Risk customers as the first priority and suggested strategies 
+such as personalized discounts, loyalty rewards, and targeted campaigns. 
+I also identified key performance indicators to monitor customer retention and business performance.
+
+**Time Spent: 3 hours.**
