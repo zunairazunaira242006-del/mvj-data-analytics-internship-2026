@@ -175,3 +175,13 @@ Also analyzed Bengaluru's historical monsoon rainfall data and applied Moving Av
 to forecast 2026 monsoon rainfall.
 Saved the results as CSV files and uploaded the notebook and datasets to GitHub.
 
+day-20
+**Day 20 – Power BI: Data Modelling**  
+**Duration: 4 Hours**
+
+Worked on data modelling in Power BI using the Online Retail II dataset. Created a Date table with Year, Month, Month Number 
+and Quarter columns. Built a Star Schema by creating FactSales, DimCustomer and DimProduct tables.
+Established relationships between the fact and dimension tables. Created DAX measures for Total Sales, Total Orders, 
+Average Order Value, Total Customers and Total Quantity. 
+Saved the Power BI project and Star Schema screenshot and uploaded them to GitHub.
+
