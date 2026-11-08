@@ -185,3 +185,12 @@ Established relationships between the fact and dimension tables. Created DAX mea
 Average Order Value, Total Customers and Total Quantity. 
 Saved the Power BI project and Star Schema screenshot and uploaded them to GitHub.
 
+day-21
+**Day 21 – Power BI 2: KPI DAX**
+Duration:4 Hours
+Created DAX measures for Year-over-Year (YoY) and Month-over-Month (MoM) sales growth using CALCULATE, SAMEPERIODLASTYEAR, PREVIOUSMONTH 
+and DIVIDE functions. Formatted growth measures as percentages.
+Created KPI cards for Total Sales, Total Orders, Total Customers, Average Order Value, YoY Sales Growth and MoM Sales Growth. 
+Implemented a What-if parameter for a Retention Offer and tested the interactive slider.
+Saved the Power BI dashboard and uploaded the project files and screenshot to GitHub.
+
