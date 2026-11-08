@@ -194,3 +194,18 @@ Created KPI cards for Total Sales, Total Orders, Total Customers, Average Order 
 Implemented a What-if parameter for a Retention Offer and tested the interactive slider.
 Saved the Power BI dashboard and uploaded the project files and screenshot to GitHub.
 
+day-22
+**Day 22 – Project 3: Bengaluru Ward Story**
+
+**Duration:** 4 Hours
+
+**Tasks Completed:**
+1. Analysed BBMP ward clustering results for 198 wards.
+2. Created eight interactive visualisations using Plotly.
+3. Developed an interactive Bengaluru ward cluster map.
+4. Identified and documented three key findings.
+5. Created a complete interactive HTML visual story.
+6. Exported the map and notebook and uploaded project files to GitHub.
+
+**Outcome:** Successfully completed and published the Bengaluru BBMP Ward Visual Story using Plotly.
+
