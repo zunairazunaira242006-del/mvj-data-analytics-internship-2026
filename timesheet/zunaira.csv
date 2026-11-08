@@ -163,3 +163,15 @@ I compared their performance and identified the importance of recall in helping 
 Finally, I documented the results and uploaded the notebook to GitHub.
 
 **Time Spent:4 Hours
+
+day-19
+**Day 19 – K-Means Clustering and Rainfall Forecasting**
+
+Duration: 4 Hours
+
+Performed K-Means clustering on BBMP ward-wise public facilities data to group 198 wards into three clusters based on available resources.
+Evaluated clustering performance using the Elbow Method and Silhouette Score and visualized the results. 
+Also analyzed Bengaluru's historical monsoon rainfall data and applied Moving Average and Exponential Smoothing techniques 
+to forecast 2026 monsoon rainfall.
+Saved the results as CSV files and uploaded the notebook and datasets to GitHub.
+
